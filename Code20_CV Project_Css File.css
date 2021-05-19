@@ -1,0 +1,106 @@
+*{
+	margin:0;
+}
+body{
+	background-color:#4A4C4C;
+	font-family: 'KoHo', sans-serif;
+}
+header{
+	padding:10px;
+}
+.container{
+	max-width:1000px;
+    background-color:#BDD9D9;
+	padding: 10px;
+	margin: auto;
+}
+.image{
+	height:100px;
+	width:100px;
+	border:3px solid white;
+	border-radius:50%;
+	float:left;
+	
+}
+.porichoy{
+	float:left;
+	margin:10px;
+}
+.contact{
+	margin-top:5px;
+	float:right;
+	color:#B24F0B;
+}
+.contact a{
+	text-decoration:none;
+	color:#B24F0B;
+}
+.contact a:hover{
+	text-decoration:underline;
+	color:red;
+}
+.clear-class{
+	clear:both;
+}
+h1,h2,h3,h4,h5,h6{
+	color:#B24F0B;
+}
+hr{
+	border: solid black 5px;
+	margin: 20px auto;
+	border-bottom: none;
+}
+/*
+personal section starts from here.
+*/
+#personal-info{
+
+}
+.content{
+
+}
+.left-div{
+	width:30%;
+	float:left;
+}
+.right-div{
+	width:70%;
+	float:left;
+}
+.common-hr{
+	border:solid black 2px;
+	border-bottom: none;
+	margin:20px auto;
+}
+.edu-left{
+	float: left;
+	width: 45%;
+}
+.edu-right{
+	float: left;
+	width: 45%;
+}
+/*Footer starts*/
+.Link-div{
+	background-color:Black;
+	text-align: center;
+	padding: 10px;
+}
+
+.Link-div a{
+	color:blanchedalmond;
+	text-decoration: none;
+	margin: 20px;
+}
+.Link-div p{
+	color:blanchedalmond;
+	text-decoration: none;
+	margin-top: 20px;
+}
+
+.Link-div a:hover{
+	color:white;
+	text-decoration: underline;
+	font-weight: bold;
+	
+}
